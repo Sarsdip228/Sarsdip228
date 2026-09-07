@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Привет! Я Иван Данилов
 
-<!--
-**Sarsdip228/Sarsdip228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps-инженер / Сетевой инженер**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Технологии
+- Docker, Docker Compose
+- Linux, Nginx, Git
+- Python (FastAPI, Flask)
+- CI/CD (GitHub Actions)
+- Мониторинг (Zabbix, Prometheus, Grafana)
+
+---
+
+## 🚀 Мои проекты
+- [Мониторинг сайтов](https://github.com/Sarsdip228/site-watcher)
+- [DevOps-практика](https://github.com/Sarsdip228/devops-demo)
+- [Astro-сайт с балансировкой](https://github.com/Sarsdip228/astro-site)
+
+---
+
+## 📫 Контакты
+- [Telegram](https://t.me/ivan_devops)
+- [Email](mailto:ivanaviqwe228@gmail.com)
+- [Резюме](./resume/resume.md)
