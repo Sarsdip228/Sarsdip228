@@ -14,9 +14,7 @@
 ---
 
 ## 🚀 Мои проекты
-- [Мониторинг сайтов](https://github.com/Sarsdip228/site-watcher)
-- [DevOps-практика](https://github.com/Sarsdip228/devops-demo)
-- [Astro-сайт с балансировкой](https://github.com/Sarsdip228/astro-site)
+
 
 ---
 
